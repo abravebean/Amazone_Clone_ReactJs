@@ -7,10 +7,10 @@
 
 - ReactJs
 - Firebase Hosting
-- Firebase Auth
+- Firebase Authorization
 - Firebase Storage
 - React-Dom
-- React Redux
+- React-Redux
 - Stripe payment
 
 ## Features
@@ -21,7 +21,7 @@
 - Payment 
 - Neat and clean UI
 
-## Steps to run in your machine
+### Steps to run in your machine
 
 #### Run the following commands
 ```
